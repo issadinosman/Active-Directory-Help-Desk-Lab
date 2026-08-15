@@ -28,7 +28,7 @@ The objectives of this lab were to:
 
 ## Network Diagram
 
-<img src="screenshots/network-diagram.png" width="700">
+<img src="screenshots/network-diagram.png" width="500">
 
 ## Active Directory Structure
 
@@ -95,13 +95,6 @@ Configured the Windows 11 client to use the Domain Controller as its preferred D
 Configured the Windows 11 client to use the Domain Controller for DNS and successfully joined `CLIENT01` to the `corp.lab` domain.
 
 ### Domain User Authentication
-
-Successfully authenticated to `CLIENT01` using an Active Directory domain user account and verified the session using:
-
-```text
-whoami
-hostname
-```
 
 ## Screenshots
 
