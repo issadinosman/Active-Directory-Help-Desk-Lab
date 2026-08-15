@@ -118,55 +118,47 @@ hostname
 
 ### Server Renamed
 
-![Server Renamed](screenshots/01-server-renamed.png)
+<img src="screenshots/01-server-renamed.png" width="500">
 
 ### Static IP Configuration
 
-![Static IP Configuration](screenshots/02-static-ip-configuration.png)
+<img src="screenshots/02-static-ip-configuration.png" width="500">
 
 ### AD DS Installed
 
-![AD DS Installed](screenshots/03-adds-installed.png)
+<img src="screenshots/03-adds-installed.png" width="500">
 
 ### Domain Controller
 
-![Domain Controller](screenshots/04-domain-controller.png)
+<img src="screenshots/04-domain-controller.png" width="500">
 
 ### Organizational Units
 
-![Organizational Units](screenshots/05-organizational-units.png)
+<img src="screenshots/05-organizational-units.png" width="500">
 
 ### Active Directory Users
 
-![Active Directory Users](screenshots/06-active-directory-users.png)
+<img src="screenshots/06-active-directory-users.png" width="500">
 
 ### Security Group Membership
 
-![Security Group Membership](screenshots/07-security-group-members.png)
+<img src="screenshots/07-security-group-members.png" width="500">
 
 ### Password Reset
 
-![Password Reset](screenshots/08-password-reset.png)
-
-### DNS Resolution
-
-![DNS Resolution](screenshots/09-dns-resolution.png)
+<img src="screenshots/08-password-reset.png" width="500">
 
 ### Client Joined to Domain
 
-![Client Joined to Domain](screenshots/10-client-domain-joined.png)
-
-### Domain User Login
-
-![Domain User Login](screenshots/11-domain-user-login.png)
+<img src="screenshots/10-client-domain-joined.png" width="500">
 
 ### Account Lockout Policy
 
-![Account Lockout Policy](screenshots/12-account-lockout-policy.png)
+<img src="screenshots/12-account-lockout-policy.png" width="500">
 
 ### Account Unlock
 
-![Account Unlock](screenshots/13-account-unlock.png)
+<img src="screenshots/13-account-unlock.png" width="500">
 
 ## Skills Demonstrated
 
