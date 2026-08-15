@@ -1,4 +1,4 @@
-# Active-Directory-Lab
+# Active Directory Help Desk Lab
 
 
 ## Overview
