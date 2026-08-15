@@ -96,51 +96,60 @@ Configured the Windows 11 client to use the Domain Controller for DNS and succes
 
 ### Domain User Authentication
 
-## Screenshots
+## 📸 Lab Screenshots
 
-### Server Renamed
+> ### ⬇️ CLICK BELOW TO EXPAND AND VIEW ALL LAB SCREENSHOTS ⬇️
+
+<details>
+<summary><h3>📸 Click here to view all screenshots </h3></summary>
+
+<br>
+
+### 🖥️ Server Renamed
 
 <img src="screenshots/01-server-renamed.png" width="500">
 
-### Static IP Configuration
+### 🌐 Static IP Configuration
 
 <img src="screenshots/02-static-ip-configuration.png" width="500">
 
-### AD DS Installed
+### ⚙️ AD DS Installed
 
 <img src="screenshots/03-adds-installed.png" width="500">
 
-### Domain Controller
+### 🏢 Domain Controller
 
 <img src="screenshots/04-domain-controller.png" width="500">
 
-### Organizational Units
+### 🗂️ Organizational Units
 
 <img src="screenshots/05-organizational-units.png" width="500">
 
-### Active Directory Users
+### 👥 Active Directory Users
 
 <img src="screenshots/06-active-directory-users.png" width="500">
 
-### Security Group Membership
+### 🔐 Security Group Membership
 
 <img src="screenshots/07-security-group-members.png" width="500">
 
-### Password Reset
+### 🔑 Password Reset
 
 <img src="screenshots/08-password-reset.png" width="500">
 
-### Client Joined to Domain
+### 💻 Client Joined to Domain
 
 <img src="screenshots/10-client-domain-joined.png" width="500">
 
-### Account Lockout Policy
+### 🔒 Account Lockout Policy
 
 <img src="screenshots/12-account-lockout-policy.png" width="500">
 
-### Account Unlock
+### 🔓 Account Unlock
 
 <img src="screenshots/13-account-unlock.png" width="500">
+
+</details>
 
 ## Skills Demonstrated
 
