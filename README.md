@@ -26,20 +26,9 @@ The objectives of this lab were to:
 * [x] Join a Windows client to the domain
 * [x] Verify domain user authentication
 
-## Lab Environment
+## Network Diagram
 
-| Component              | Configuration                    |
-| ---------------------- | -------------------------------- |
-| Hypervisor             | VMware Workstation               |
-| Domain Controller      | Windows Server                   |
-| Client Machine         | Windows 11 Enterprise Evaluation |
-| Domain                 | `corp.lab`                       |
-| Domain Controller Name | `DC01`                           |
-| Client Name            | `CLIENT01`                       |
-| Domain Controller IP   | `192.168.83.129`                 |
-| Client IP              | `192.168.83.130`                 |
-| Subnet Mask            | `255.255.255.0`                  |
-| Default Gateway        | `192.168.83.2`                   |
+<img src="screenshots/network-diagram.png" width="700">
 
 ## Active Directory Structure
 
