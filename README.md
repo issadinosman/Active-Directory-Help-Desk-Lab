@@ -116,29 +116,59 @@ hostname
 
 ## Screenshots
 
+### Server Renamed
+
+![Server Renamed](screenshots/01-server-renamed.png)
+### Organizational Units
+
+### Static IP Configuration
+
+![Static IP Configuration](screenshots/02-static-ip-configuration.png)
+
+### AD DS Installed
+
+![AD DS Installed](screenshots/03-adds-installed.png)
+
 ### Domain Controller
+
+![Domain Controller](screenshots/04-domain-controller.png)
 
 ### Organizational Units
 
+![Organizational Units](screenshots/05-organizational-units.png)
+
 ### Active Directory Users
+
+![Active Directory Users](screenshots/06-active-directory-users.png)
 
 ### Security Group Membership
 
+![Security Group Membership](screenshots/07-security-group-members.png)
+
 ### Password Reset
 
-### Account Disabled
+![Password Reset](screenshots/08-password-reset.png)
+### Domain User Login
 
 ### DNS Resolution
 
+![DNS Resolution](screenshots/09-dns-resolution.png)
+
 ### Client Joined to Domain
 
-### CLIENT01 in Active Directory
+![Client Joined to Domain](screenshots/10-client-domain-joined.png)
 
-### Domain User Login
+Domain User Login
+
+![Domain User Login](screenshots/11-domain-user-login.png)
 
 ### Account Lockout Policy
 
+![Account Lockout Policy](screenshots/12-account-lockout-policy.png)
+
 ### Account Unlock
+
+![Account Unlock](screenshots/13-account-unlock.png)
 
 ## Skills Demonstrated
 
