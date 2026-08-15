@@ -119,7 +119,6 @@ hostname
 ### Server Renamed
 
 ![Server Renamed](screenshots/01-server-renamed.png)
-### Organizational Units
 
 ### Static IP Configuration
 
@@ -148,7 +147,6 @@ hostname
 ### Password Reset
 
 ![Password Reset](screenshots/08-password-reset.png)
-### Domain User Login
 
 ### DNS Resolution
 
@@ -158,7 +156,7 @@ hostname
 
 ![Client Joined to Domain](screenshots/10-client-domain-joined.png)
 
-Domain User Login
+### Domain User Login
 
 ![Domain User Login](screenshots/11-domain-user-login.png)
 
